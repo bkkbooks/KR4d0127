@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0127/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部三
+  hash: sha256:f07461303fab15c789ad7c1df69e91ba77e3a1645c0ea5d385f94292466f69db
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0127_WYG_000-1a, image: WYG1124/WYG1124-0001a.png}
+body:
+  text: 給事集目録别集類二宋卷一詩彈事奏議劄子卷二外制卷三表啓卷四策問記墓銘頌銘偈祝文祭文卷五經義附録臣等謹按給事集五卷宋劉安上撰安上字元禮永嘉人紹聖四年進士丙科由錢塘尉歷擢殿中侍御史疏劾蔡京不報乃與石公弼等廷論之以劾京之故浮沈外郡者十六年晚以知舒州乞祠得提舉鴻慶宫靖康元年致仕建炎二年卒於家其平生風節甚著蓋亦伉直之士據薛嘉言作安上行狀稱其有詩五百首制誥雜文三十卷篇帙頗富然焦竑國史經籍志載劉安上集實止五卷與此本相合蓋兵燬之餘後人掇拾而成非其原本矣至宋史藝文志載安上文集作四卷又與此互異則當由刋本訛五為四耳其集自明以來流傳甚鮮朱彛尊自潁州劉體仁家借抄僅得其半後得福建林佶抄本始足成之其詩醖釀未深而格意在中晚唐間頗見風致文筆亦修潔自好無粗獷拉雜之習蓋不惟其人足重即文章亦殊可觀也乾隆四十一年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:b29d373e16ea72d7ee5306e60dad033953077e4efa977e81862c0d4f56babbde
+metadata:
+  title: 給事集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:55:34.816070'
+  juan_title: 目録
+  source:
+    repository: kanripo
+    path: KR4d0127/KR4d0127_000.txt
+hash: sha256:ef9596ab967adbcb745b2ec0fed599f75c9510f1506ff0402e23e8b46fcdfe95
